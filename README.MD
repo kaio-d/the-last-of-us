@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto The Last of US </h1>
 
 <p align="center">
-  <img alt="projeto The Last of Us" src=".github/preview.png" width="100%">
+  <img alt="projeto The Last of Us" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
